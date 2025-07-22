@@ -1,0 +1,1 @@
+ELEVENLABS_API_KEY = 'Enter your ElevenLabs API key here'
